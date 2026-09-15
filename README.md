@@ -1,3 +1,3 @@
 # repomind-test
 
-1 st pull request for checking 
+1st pull request for checking.
